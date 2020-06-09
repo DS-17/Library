@@ -32,4 +32,5 @@ Confidence Intervals
 --------------------
 
 `Correct Interpretation of Confidence Intervals <https://journals.sagepub.com/doi/pdf/10.1177/201010581001900316>`_
-_`How NOT to Interpret Confidence Intervels <http://www.timvanderzee.com/not-interpret-confidence-intervals/>`_
+
+`How NOT to Interpret Confidence Intervels <http://www.timvanderzee.com/not-interpret-confidence-intervals/>`_
